@@ -1,4 +1,4 @@
-# 🚀 SkillForge – AI Powered Skill Intelligence Platform
+# 🚀 SkillForge – AI Powered Career Intelligence Platform
 
 SkillForge is an AI-driven platform designed to analyze skills, identify gaps, and provide intelligent recommendations for career growth. It helps users understand their learning progress and align their skills with real-world job requirements.
 
