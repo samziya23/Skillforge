@@ -1,0 +1,11 @@
+{
+  "name": "skillforge-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SkillForge AI — run frontend and backend separately (see README)",
+  "scripts": {
+    "frontend": "cd frontend && npm install && npm run dev",
+    "install:frontend": "cd frontend && npm install"
+  },
+  "note": "Backend is Python/FastAPI. Run: pip install -r requirements.txt && uvicorn main:app --reload"
+}
