@@ -47,7 +47,7 @@ SkillForge/
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
-git clone https://github.com/Priyuan/skillforge.git
+git clone https://github.com/samziya23/Skillforge
 cd skillforge
 
 ### 2. Install dependencies
